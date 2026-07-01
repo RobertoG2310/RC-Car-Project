@@ -1,7 +1,8 @@
-========================================================================
-                           RC-Car Project
-========================================================================
-
+<div align = "center">
+	<h1>
+		RC-Car Project
+	</h1>
+</div>
 
 DESCRIPTION
 -----------
@@ -20,7 +21,9 @@ INSTALLATION & SETUP
 
 EXAMPLE PHOTOS & VIDEOS
 -----------------------
-![image alt](https://github.com/RobertoG2310/RC-Car-Project/blob/30e830d6ccb13fdccee739461f15c8007bb252f0/rc_car.jpg)
+![RC Car](https://github.com/RobertoG2310/RC-Car-Project/blob/30e830d6ccb13fdccee739461f15c8007bb252f0/rc_car.jpg)
+![RC Car](https://github.com/RobertoG2310/RC-Car-Project/blob/0e907ec72510ba2125c53c5ff035183fd9cb7abb/rc_car2.JPG)
+![RC CAR](https://github.com/RobertoG2310/RC-Car-Project/blob/0e907ec72510ba2125c53c5ff035183fd9cb7abb/rc_car3.JPG)
 
 LICENSE
 -------
