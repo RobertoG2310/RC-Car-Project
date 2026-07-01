@@ -20,7 +20,7 @@ INSTALLATION & SETUP
 
 EXAMPLE PHOTOS & VIDEOS
 -----------------------
-![image_alt](https://github.com/RobertoG2310/RC-Car-Project/blob/3ddd827f79a7c8a045c5673eb24f31f84cc07b2d/rc_car.jpg)
+![image alt](https://github.com/RobertoG2310/RC-Car-Project/blob/3ddd827f79a7c8a045c5673eb24f31f84cc07b2d/rc_car.jpg)
 
 LICENSE
 -------
