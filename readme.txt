@@ -20,7 +20,7 @@ INSTALLATION & SETUP
 
 EXAMPLE PHOTOS & VIDEOS
 -----------------------
-![RC Car]rc_car.jpg)
+![RC Car](rc_car.jpg)
 
 LICENSE
 -------
